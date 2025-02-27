@@ -1,9 +1,21 @@
-# Power-bi-Ecommerse-sales-dashboard
-This Power BI dashboard provides insights into e-commerce sales, profit trends, and customer behavior. It includes interactive visualizations for state-wise sales, category-wise quantity, payment modes, and monthly profit analysis. The dashboard helps businesses track key metrics and make data-driven decisions.
+# Project Overview
+This Power BI dashboard provides an interactive and insightful analysis of e-commerce sales data. It helps businesses track sales performance, analyze customer behavior, and optimize decision-making. The dashboard includes key performance indicators (KPIs), state-wise sales distribution, category-wise quantity sold, and payment mode analysis.
+
 # E-Commerce Sales Dashboard
 
-## Project Overview
-This Power BI dashboard provides an interactive and insightful analysis of e-commerce sales data. It helps businesses track sales performance, analyze customer behavior, and optimize decision-making. The dashboard includes key performance indicators (KPIs), state-wise sales distribution, category-wise quantity sold, and payment mode analysis.
+The dashboard includes:
+✅ Key Performance Indicators (KPIs) – Total Sales, Profit, Orders, and Average Order Value.
+✅ State-wise Sales Distribution – Identifying the top-performing regions.
+✅ Category-wise Sales & Quantity Analysis – Understanding which product categories drive revenue.
+✅ Payment Mode Analysis – Identifying the most preferred transaction methods.
+✅ Monthly Profit Trends – Visualizing fluctuations in profitability.
+✅ Customer Segmentation – Analyzing purchasing patterns to optimize marketing strategies.
+
+This dashboard helps e-commerce businesses gain actionable insights, improve inventory planning, and optimize pricing & marketing strategies for better revenue generation.# Power-bi-Ecommerse-sales-dashboard
+This Power BI dashboard provides insights into e-commerce sales, profit trends, and customer behavior. It includes interactive visualizations for state-wise sales, category-wise quantity, payment modes, and monthly profit analysis. The dashboard helps businesses track key metrics and make data-driven decisions.
+
+
+
 
 ## Key Insights
 - **Total Sales:** ₹438K | **Total Profit:** ₹37K | **Total Orders:** 5615  
