@@ -43,6 +43,6 @@ This Power BI dashboard provides insights into e-commerce sales, profit trends, 
 - `E-Commerce Sales Dashboard.pbix` - Power BI dashboard file.
 - `README.md` - Project description and details.
 - `Dashboard_Screenshot.png` - Preview image of the dashboard.
-
+- Datasets in CSV format 1. Orders.csv 2.Details.com
 ---
 Feel free to contribute or reach out for any suggestions!
